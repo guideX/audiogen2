@@ -1,0 +1,17 @@
+[Index]
+NumSections=2
+[0]
+MenuName=ROOT
+NumItems=2
+Item1=New
+Item1Command=NX_InheritMenu(_NE);
+Item2=Exit
+Item2Command=EndProgram();
+[1]
+MenuName=_NE
+NumItems=2
+Item1=Test
+Item1Command=MsgBox(Test);
+Item2=Test 2
+Item2Command=MsgBox(Fuck you);
+  

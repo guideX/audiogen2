@@ -1,0 +1,9 @@
+[Index]
+NumSections=2
+[0]
+MenuName=ROOT
+NumItems=2
+Item1=Expand
+Item1Command=frmMain.tvwFunctions.SelectedItem.Expanded = True();
+Item2=Colapse
+Item2Command=frmMain.tvwFunctions.SelectedItem.Expanded = False();

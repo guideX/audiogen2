@@ -1,0 +1,9 @@
+ctlCDRipper = 176, 232, 831, 887, , 153, 345, 808, 1000, C
+mdlCDRipper = 0, 0, 655, 655, C
+clsCDRipper = 110, 145, 765, 800, C
+clsCDTrackRipper = 154, 203, 809, 858, C
+clsDrive = 176, 232, 831, 887, C
+clsToc = 167, 43, 822, 698, 
+clsTocEntry = 88, 116, 743, 771, C
+clsWaveWritter = 110, 145, 765, 800, C
+frmOptions = 44, 58, 699, 713, C, 0, 0, 492, 301, C

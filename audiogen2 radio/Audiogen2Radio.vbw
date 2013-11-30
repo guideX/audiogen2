@@ -1,0 +1,5 @@
+mdlNetRadio = 0, 0, 0, 0, C
+mdlBass = 66, 87, 763, 742, C
+ctlRadio = 0, 0, 0, 0, C, 22, 29, 719, 684, C
+frmMain = 0, 0, 0, 0, C, 44, 58, 741, 713, C
+clsFileIo = 0, 0, 0, 0, C
