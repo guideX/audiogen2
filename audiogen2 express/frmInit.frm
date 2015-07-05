@@ -97,3 +97,7 @@ Private Sub ShowMsg(msg As String, ms As Long)
     DoEvents
     Sleep ms
 End Sub
+
+Private Sub lblStatus_Click()
+
+End Sub
